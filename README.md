@@ -1,5 +1,6 @@
 # Swift-Projects
-A bunch of Swift Projects 
+A bunch of Swift Projects built to practice IOS Development
+
 ## Joke Telling Bot
 A full-fledged Joke Telling Robot Mobile App using Text to Speech APIs, which can be applied to both web apps and mobile apps.
 
